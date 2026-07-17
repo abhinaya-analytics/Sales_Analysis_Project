@@ -1,2 +1,2 @@
 # Sales_Analysis_Project
-Data Analysiss using Excel , SQL , Power BI
+Data Analysis using Excel , SQL , Power BI
